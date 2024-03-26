@@ -1,0 +1,10 @@
+##### HOW TO CONNECT TO DATABASE:
+ STEP 1: CONNECT VIA STRING AND ADD IP address just press address
+ step 2:  go to cluster >> collection (if api hit via postman )
+ 
+
+ #####################################
+joi pkg: The most powerful schema description language and data validator for JavaScript.
+becrypt pkg : it gonna take password through in algorithm and #123
+Random bytes get added to the password, and together the salted hash meets security recommendations on length and unpredictability.
+SALT basically added to hashid and create a mumble
